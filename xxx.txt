@@ -1,0 +1,7 @@
+1. 翻譯器: python 3.x
+2. 輔助工具(IDE): Pycharm/VSCode
+
+最終產物: .py檔案
+jupyter notebook: python一個工具
+他算是一個讓你一段一段練習的工具(.ipynb)
+colab: 線上版的jupyter notebook
